@@ -1,0 +1,423 @@
+Created At,Order ID,Tracking Code,Invoice,Recipient Name,Recipient Phone,Recipient Address,Delivery Zone,Delivery Status,Approval Status,Delivery Duration,Rider,Riders Phone,COD Amount,Shipping Charge,COD Charge,Payment Status,Note
+2023-11-11 03:35:43 pm,50012767,2FB225FBF,N/A,নিহাদ,01859542095,ঢাকা দোহার জয়পারা কলেজ মারকেট,Dohar Nawabganj,Delivered,Delivered,2,Alim Sahjada (Dohar),01616689046,1400,80,14,Paid,-
+2023-11-12 03:02:06 pm,50102218,ACE2410AE1E7DC4,N/A,MIZANUR,01902568851,Rupnagar Duaripara Road no 4 Basa 8,Pallabi,Delivered,Delivered,1,Juwel Rana (Pallabi),01746327747,1350,70,13.5,Paid,Old id-67529061 -  CBM
+2023-11-12 04:53:09 pm,50111601,2FCA471C1,N/A,RAIHAN CHOWDHURY,01890339190,Ramgonj luxmipur,Sutrapur,Cancelled,Cancelled,2,Murshedul Alam,01832395661,1400,130,0,Paid,-
+2023-11-12 04:59:51 pm,50112248,2FCA6F8B5,N/A,SAMIN AL AFSAR NILOY,01631467773,"Vuigor, Rice mail, ভাই ভাই ট্রেডার্স(ভুট্টো ভাই এর দোকান), Narayanganj, Fatullah.",Fatulla (Narayanganj),Delivered,Delivered,1,Rony (Fatullah),01925290744,1300,100,13,Paid,-  CBM
+2023-11-12 05:03:55 pm,50112608,2FCA8600F,N/A,SHAHRIAR KHAN,01828615058,"Chattogram 
+Halisohor boropul",Sutrapur,Cancelled,Cancelled,1,Nurul Afsar,01838162306,1300,130,0,Paid,-  CBM
+2023-11-12 08:42:27 pm,50139189,FE5F5B98CBC009E,N/A,SHAHRIAR KHAN,01828615058,"Chattogram 
+Halisohor boropul",Halishahar (CTG),Delivered,Delivered,1,Nurul Afsar,01838162306,1300,130,13,Paid,67608739 -
+2023-11-12 08:46:45 pm,50139682,69A44304345A9B3,N/A,MESBA,01515225494,"Madla, shajahanpur, bogura",Sutrapur,Pending,Cancelled,,Unassigned,0,1300,110,0,Paid,66988658  ai id rentry kore cancel kora holo.....
+2023-11-13 11:14:01 am,50172085,24BA8F1A7DCD939,N/A,IMAM BHUYAN,01723908316,"Chandragonj, purbobazer begumgonj, noakhali",Sutrapur,Cancelled,Cancelled,0,Sahadat Hossen(Chowmuhani),01601333315,1550,130,0,Paid,"old id 67541503
+ -"
+2023-11-14 02:39:09 pm,50251937,2FEC8A12E,N/A,SHAOWN,01946671738,Munshiganj sadr dokkhin islam por,Sutrapur,Delivered,Delivered,2,RIday,01952392420,130,110,1.3,Paid,Replace hobe -  CBM
+2023-11-14 06:16:19 pm,50269439,2FF0CFF1D,N/A,SHAHRIAR KHAN,01828615058,"Chattogram 
+
+Halisohor boropul",Halishahar (CTG),Delivered,Delivered,1,Nasir uddin (Halisohor ),01855031234,200,110,2,Paid,Replace hobe -  CBM
+2023-11-14 06:20:32 pm,50269918,2FF0EDE47,N/A,ASSFAQUE HOSSAIN EVAN,01819093964,"House- 551,552 ( Rupsha 2005 ) , Flat 102B , Road 10 , 1st Floor  , Baitul Aman Housing 
+Society , Adabor , Dhaka 1207",Adabor Hub,Delivered,Delivered,1,Md Limon Mia(Adabor),01733760470,1350,60,13.5,Paid,-  CBM
+2023-11-14 06:24:37 pm,50270266,2FF103A64,N/A,ANOWARUL KIBRIA,01730051954,"Checkpoint Systems BD
+
+Gulshan Centre Point, 12th Floor, (North Block), House # 23-26, Road # 90, Gulshan – 2, Dhaka-1212",Gulshan,Delivered,Delivered,1,Ariful islam (gulshan),01740359117,1350,60,13.5,Paid,-  CBM
+2023-11-14 06:27:48 pm,50270531,2FF114340,N/A,POLASH,01922556223,"74/2 South Jatrabari, Suruz Nagor, Dhaka",Jatrabari,Delivered,Delivered,1,Md omor sani jatrabari,01628528225,1150,60,11.5,Paid,-  CBM
+2023-11-15 04:27:11 pm,50319121,2FFCF11D0,N/A,MAHBOOB JAYED HRIDOY,01894336380,"Hnila, Teknaf, Cox’s Bazar",Nhila (Teknaf),Delivered,Delivered,3,Md Mainuddin Rafi ...Nhila,01616897314,1400,130,14,Paid,-
+2023-11-15 04:34:05 pm,50319664,2FFD13069,N/A,MEHEDI HASAN,01674872944,185 BC Tejgaon Indistrial Area Dhaka,Tejgaon,Delivered,Delivered,1,Monir(Tejgaon),01984976672,1300,70,13,Paid,-  CBM
+2023-11-15 04:37:11 pm,50319914,2FFD22A5B,N/A,ABRAR,01680504253,"17, Kali Charan Saha Road, Gandaria, Dhaka 1204, ( kaporia nagar jame masjid er shamner golir pani 
+wala basha )",Sutrapur,Delivered,Delivered,1,Ibrahim Mia(sutrapur),01613000529,950,70,9.5,Paid,-  CBM
+2023-11-15 04:40:18 pm,50320126,2FFD2FEAD,N/A,SHABAB HALIM,01600361403,"Jatrabari, Dholpur, bou bazar, vushi alar goli.",Jatrabari,Delivered,Delivered,1,Fazle Rabbi(Sutrapur),01616761004,1250,70,12.5,Paid,-  CBM
+2023-11-16 04:50:50 pm,50386151,300D4E724,N/A,ABDUS SHAKUR,01732665003,Dhaka bus stand(Moulvibazar),Moulvibazar,Delivered,Delivered,5,Sujon das...(Moulvibazar),01729651491,1450,60,14.5,Paid,-  CBM
+2023-11-19 04:41:41 pm,50580663,303CCB711,N/A,আরমান হোসাইন,01878418197,"জেলা কক্সবাজার
+থানা উখিয়া
+গ্রাম বালুখালি 
+বাজারের নাম পানবাজার",Ukhiya (Cox's Bazar),Delivered,Delivered,3,Md kowser alam bappi,01848343230,1130,130,11.3,Paid,COD '1030' to '1130'.
+2023-11-20 03:07:51 pm,50645196,0D79B50D6BE23FD,N/A,DIDARUL ISLAM,01738257527,চট্টগ্রাম কদমতলী শুভপুর বাসস্ট্যান্ডে সদরঘাট,Sutrapur,Pending,Cancelled,,Unassigned,0,1050,110,0,Paid,"66891815
+ -  CBM"
+2023-11-20 05:18:20 pm,50656970,304F6CAAB,N/A,LOKNATH SAHA,01736033345,"Vill: Chalkdosh, p.o: kunjerhat, p.s: Borhanuddin, dist: Bhola",KunjerHat Bhola,Delivered,Delivered,2,Asis...(Borhanuddin),01761403228,1260,130,12.6,Paid,-
+2023-11-20 05:19:48 pm,50657134,304F76E73,N/A,MANJARUL ALAM,01998355151,"Firinggi bazar kotoali
+Chattagram",Sutrapur,Cancelled,Cancelled,6,Ayatullah ctg,01856164545,950,130,0,Paid,-  CBM
+2023-11-21 03:16:20 pm,50721442,305F2A279,N/A,LIEUTENANT K M SALAUDDIN MUSA,01703223430,"9 BIR Mechanized, Bogura cantonment.
+B block , Majhira , Bogura.",Shajahanpur (Bogura),Delivered,Delivered,1,Salam Bogura,01947130710,1130,130,11.3,Paid,-
+2023-11-21 03:25:51 pm,50722304,305F600CE,N/A,MD. MOFIZ,01813134749,"Village: Chandragona
+UP: Rangunia
+D: Chattogram",Sutrapur,Partially Delivered,Partially Delivered,2,Md Liton (Rangunia),01602425564,150,130,1.5,Paid,-  CBM
+2023-11-21 03:34:13 pm,50723035,305F8DB1C,N/A,SADAQAT SALEH,01977201562,"House no-211,east kafrul,dhaka",Kafrul,Delivered,Delivered,1,Manik Mia (Kafrul),01734928073,1260,70,12.6,Paid,-  CBM
+2023-11-21 03:40:19 pm,50723583,305FAFFD2,N/A,TAKBIR AHMED EMON,01685848600,"BADC Road,  satpai netrakona",Netrokona,Delivered,Delivered,2,Lokman Netrokona,01862150915,1320,130,13.2,Paid,-
+2023-11-21 03:49:23 pm,50724288,305FDC099,N/A,SHAOWN,01946671738,Munshiganj sadr dokkhin islam por,Sutrapur,Cancelled,Cancelled,1,Md.Golam Rabbi (Munshiganj),01405186807,1110,130,0,Paid,-  CBM
+2023-11-21 03:49:52 pm,50724349,6B8F9204131A9DA,N/A,ANTOR ALI,01880208178,Ctg bayzid bostami,Sutrapur,Pending,Cancelled,,Sutrapur Office Delivery,01322889446,1400,0,0,Paid,67415161 -  CBM
+2023-11-22 05:21:18 pm,50816675,30766A374,N/A,KHALID,01310499226,ময়মনসিংহ  বিজিবি সেক্টর সদর দপ্তর,Mymensingh,Delivered,Delivered,1,Md.Abdul Kaium (Mymensingh),01882632360,1110,130,11.1,Paid,-
+2023-11-22 05:33:53 pm,50818058,3076C0A0D,N/A,SHAOWN,01946671738,Munshiganj sadr dokkhin islam por,Sutrapur,Partially Delivered,Partially Delivered,1,Md.Golam Rabbi (Munshiganj),01405186807,1250,150,12.5,Paid,COD '2130' to '2250'.
+2023-11-22 05:45:36 pm,50819585,30772010A,N/A,SHADESH,01994774369,"Khilkhet, nikunjo 2, Road# 14, House 1/B",Nikunja,Delivered,Delivered,1,Sabbir Hosen(Nikunja),01860021074,1000,70,10,Paid,-  CBM
+2023-11-23 04:14:10 pm,50885871,30874EFBD,N/A,আবু সালেক দিপু,01714726286,"আর এম সিটি কুলাউড়া 
+মৌলভীবাজার",Kulaura (Moulvibazar),Delivered,Delivered,2,Mamun -2....kulaura,01748457596,1080,130,10.8,Paid,-
+2023-11-23 05:47:32 pm,50895126,3089916F6,N/A,SK RIFAT,01712777146,Khulna. Boyra.Imman proshikhon er samne,Khulna Hub,Delivered,Delivered,2,Al-Amin Palash(khulna),01911604677,1330,130,13.3,Paid,-
+2023-11-24 05:02:30 pm,50957024,3098AE03B,N/A,BAPPA,01676195467,Mirpur 1 block d rood 8 house 9,Sutrapur,Partially Delivered,Partially Delivered,1,Md.  Mitul Mia(Kollyanpur),01311878758,70,70,0.7,Paid,-  CBM
+2023-11-24 05:05:39 pm,50957291,3098BEBCB,N/A,FAISAL AHMED SHAKIB,01778066487,"Ramchandapur, Laksham, cumilla,",Laksam Cumilla,Delivered,Delivered,1,M A Jafor Sajib,01602966335,1000,110,10,Paid,-
+2023-11-24 05:12:09 pm,50957945,3098E792E,N/A,DIPOK,01838698172,"Farmgate Hotel shuktara
+20/A,indira Road,farmgate,tejgaon,dhaka-1215",Kalabagan,Delivered,Delivered,1,Shuvo mia(Kalabagan),01755250166,950,70,9.5,Paid,-  CBM
+2023-11-25 04:32:57 pm,51016788,30A7454AD,N/A,আবির খান সজিব,01309437849,নর্দা কালাচাঁদপুর জামে মসজিদ গুলশান ২ ঢাকা ১২১২,Gulshan,Delivered,Delivered,1,Aziz (gulshan),01903627625,1000,70,10,Paid,-  CBM
+2023-11-28 04:35:42 pm,51245428,30DF1740F,N/A,সেতু,01681409580,রংপুর শহর ইসলাম বাগ আর কে রোদ হট সট সেলুন,Rangpur,Delivered,Delivered,2,Ayubur (Rangpur),01912078605,1430,130,14.3,Paid,-
+2023-11-28 05:02:25 pm,51247922,30DFB3269,N/A,AMIN ISLAM,01619824115,House 115 road 07 sector  04 uttara Dhaka.,Uttara,Delivered,Delivered,1,Ashik Mia(Uttara),01722249140,1250,70,12.5,Paid,-  CBM
+2023-11-28 05:07:53 pm,51248340,30DFCD441,N/A,ZAHID,01711359465,Nayapolton islami hospital Dhaka,Motijheel,Delivered,Delivered,1,Md Rabby(Motijheel),01825154582,1000,70,10,Paid,-  CBM
+2023-11-29 04:52:21 pm,51321172,30F195453,N/A,MD MIZAN,01733610508,Fortun shouse lmt. Bisic kauniya borishal,Barishal,Delivered,Delivered,1,Md.Solaiman,01631340502,3750,170,37.5,Paid,-
+2023-11-29 04:55:14 pm,51321488,30F1A9095,N/A,মিলন হোসেন,01703944152,"মহাখালী ডিওএইচএস, 
+রোড নং ২১ ।বাসা: ১৮৪ , Dhaka",Tejgaon,Delivered,Delivered,1,Shapon Kumar(Tejgaon),01611881718,1000,70,10,Paid,-  CBM
+2023-11-29 05:23:10 pm,51324684,30F270C1C,N/A,ROBIOUL ISLAM,01908319241,Dhaka Narayanganj Rupganj Bhulta Gawchiya Shawghat polli biddut ar samne,Sutrapur,Cancelled,Cancelled,1,MD.Morsalin Miya(Rupganj),01934825512,1000,100,0,Paid,-  CBM
+2023-11-30 04:52:33 pm,51396466,3103F7212,N/A,মাজেদের রহমান,01759897206,"জেলা:নোয়াখালি,সোনাইমুড়ি, দেওটি, আমিরাবাদ",Sonaimuri (Noakhali),Delivered,Delivered,3,Fazlur Rahman...Sonaimuri,01326963889,1130,130,11.3,Paid,-
+2023-11-30 04:55:54 pm,51396746,310408A5A,N/A,MD RAGIB HASAN,01303499695,Block F road 22 hoise 721 Bashundhara R/a,Sutrapur,Partially Delivered,Partially Delivered,1,Arifujjaman Bashundhara,01773509890,70,70,0.7,Paid,Size fit na hole delivery charge diye cancel hobe. -
+2023-11-30 06:05:39 pm,51404574,3105F1E16,N/A,DIPOK,01838698172,"Farmgate Hotel shuktara
+20/A,indira Road,farmgate,tejgaon,dhaka-1215",Tejgaon,Delivered,Delivered,1,Jihad(Tejgaon),01317426594,950,70,9.5,Paid,-
+2023-12-01 04:27:25 pm,51461297,3113CB1BD,N/A,ANTOR DEY,01710656013,"Kunjerhat, Burhanuddin, bhola",KunjerHat Bhola,Delivered,Delivered,2,Asis...(Borhanuddin),01761403228,0,130,0,Paid,-
+2023-12-01 04:31:05 pm,51461534,3113D9E69,N/A,DEABU BISWAS,01326604669,Orabunia.po..kanchonnogor.upo..Dumuria ..zila.. khulna,Dumuria (Khulna),Delivered,Delivered,6,Md Mizan,01963597829,1580,130,15.8,Paid,-
+2023-12-02 04:08:20 pm,51523096,3122E181C,N/A,MITI KHAN,01791500195,"Jela manikgonj
+Thana singair
+
+Gram golora poshcim para nodir pare",Singair (Manikganj),Delivered,Delivered,1,Momedul (Manikganj),01737261534,1130,130,11.3,Paid,-  CBM
+2023-12-02 04:11:55 pm,51523418,3122F5A23,N/A,জিহাদ,01932916030,মুন্সিগঞ্জ শ্রীনগর থানা বারুইখালী ইউনিয়ান ৩ নং ওয়ার্ড শিবরামপুর স্কুল গেট,Sreenagar (Munshiganj),Delivered,Delivered,2,Sufal chandro Das....Sreenagar,01788909702,1130,130,11.3,Paid,-  CBM
+2023-12-02 04:18:50 pm,51523984,31231909E,N/A,JAMAL HOSSAIN,01632430156,"District -Cumilla 
+Thana - Brammonpara
+
+Village - Shahidal Bazar",Sutrapur,Cancelled,Cancelled,1,Arif....(Brahmmanpara),01747499091,1130,130,0,Paid,-
+2023-12-02 04:25:22 pm,51524546,31233C26B,N/A,TOWFIQUE,01708133995,"Flat 11-J, Meghan, Multiplan Red Crescent City (Aarong Building), Mirpur-1, Dhaka, 1216",Kollayanpur,Delivered,Delivered,1,Rasedul Islam(Kollayanpur),01602630639,1000,70,10,Paid,-  CBM
+2023-12-02 04:33:16 pm,51525307,31236BB6B,N/A,JULKER NYNE FAHIM,01777505558,"Kathaltola turag pump,rupatoli,barisal sadar",Barishal,Delivered,Delivered,1,Jahid Barishal,01647199579,2300,150,23,Paid,-
+2023-12-02 04:39:45 pm,51526353,3123AD19C,N/A,APU SUMAN GUPTA,01798232216,"254/1B, Bhasantek Bazaar road (Dutch Bangla Bank Ltd.), Dhaka cantonment 1206",Kafrul,Delivered,Delivered,1,Shahalam ahmed (Kafrul),01764734721,1060,70,10.6,Paid,-  CBM
+2023-12-03 04:39:27 pm,51609869,313810D5E,N/A,MD. HASAN,01325833232,Mirpur 1. Sah Ali College market.,Kollayanpur,Delivered,Delivered,1,Mithu Mia(Kollaynapur),01600954082,1200,70,12,Paid,-  CBM
+2023-12-04 04:48:35 pm,51695184,314CE5036,N/A,মোহাম্মদ মাছুম মিয়া,01316361323,"সিটি  কুমিল্লা 
+গ্রাম কালিয়াজুরী 
+
+৩ নং ওয়ার্ড 
+পিটিআই স্কুল রোড",Cumilla,Delivered,Delivered,1,Md Reaz Mia,01956029959,1130,110,11.3,Paid,-
+2023-12-04 04:53:10 pm,51695693,314D04DCD,N/A,সিব্বির,01644367470,"চিটাগং রোড  সিদ্ধিরগঙ নারায়ণগঞ্জ
+.",Sutrapur,Cancelled,Cancelled,3,Shakib Uddin(Kanchpur Hub),01605523620,1350,100,0,Paid,-  CBM
+2023-12-04 04:59:24 pm,51696557,314D3ADD6,N/A,FAHIM,01842691002,"Chittagong University,rail crossing",Hathazari,Delivered,Delivered,2,Habib  Hathazari,01877955959,1130,130,11.3,Paid,-  CBM
+2023-12-04 05:01:45 pm,51696878,314D4EE0B,N/A,ARJUN SINGH,01408022377,"Ad Koyla restaurant tejgaon Link rood
+3",Tejgaon,Delivered,Delivered,1,Monir(Tejgaon),01984976672,1000,70,10,Paid,-  CBM
+2023-12-04 05:06:48 pm,51697537,314D781C6,N/A,HRIDOY,01303795156,"Bagmara, Rajshahi 
+Bagmara thanar mor",Bagmara (Rajshahi),Delivered,Delivered,3,Selim...(Bagmara),01786889389,2100,150,21,Paid,-
+2023-12-04 05:13:38 pm,51698418,314DAF234,N/A,ইউসুফ,01755854137,"জেলা.নোয়াখালি
+থানা..সোনাইমুড়ী
+
+পোষ্ট আফিস. দেওটি",Sonaimuri (Noakhali),Delivered,Delivered,1,Fazlur Rahman...Sonaimuri,01326963889,1350,110,13.5,Paid,-
+2023-12-04 05:42:14 pm,51702216,314E9C80E,N/A,MR.SHAIKAT,01915828872,"Gilatola jahanabad cantonment,
+Khan Jahan Ali thana,
+Khulna",Sutrapur,Partially Delivered,Partially Delivered,3,Kamrul Islam(Phultala),01779880888,130,130,1.3,Paid,-
+2023-12-05 04:34:52 pm,51778071,31612174A,N/A,TUHIN,01625807155,"Jobber housing society , 1st Colony ,Mirpur Mazar Road ,dhaka 1216",Kollayanpur,Delivered,Delivered,3,Shimul Piyas (Kollayanpur),01986982895,1010,60,10.1,Paid,-
+2023-12-05 04:36:59 pm,51778303,31612FF29,N/A,SHEAIM KHAN,01708149760,"House No. Ga-30/G, Pragati Sarani, Dhaka 1212",Badda,Delivered,Delivered,1,MD Morchalin Khan(Badda),01912373905,1060,70,10.6,Paid,-  CBM
+2023-12-05 04:38:22 pm,51778443,316138BB7,N/A,MICON,01839777767,"House - 10, Road - 14, Block - B, Section - 10, Mirpur 10,  Dhaka 1216 
+Behind ( rabbani hotel )",Mirpur,Delivered,Delivered,1,Md. Hares Uddin (Mirpur),01621893125,750,70,7.5,Paid,-  CBM
+2023-12-05 06:09:17 pm,51791328,31645E0D5,N/A,ISMAIL IKRAM,01953594956,Khulna Kuet pocket gate,Khulna Hub,Delivered,Delivered,1,Arif Hossain (Khulna),01303314577,900,130,9,Paid,-
+2023-12-05 06:31:08 pm,51794349,31651AD02,N/A,AHANAF ARPON,01680691548,Khulna royel mor(home),Khulna Hub,Delivered,Delivered,4,Shuvo(Khulna),01840112677,1050,130,10.5,Paid,-
+2023-12-06 04:52:39 pm,51865352,317670885,N/A,MICON,01839777767,"House - 10, Road - 14, Block - B, Section - 10, Mirpur 10,  Dhaka 1216 
+Behind ( rabbani hotel )",Sutrapur,Delivered,Delivered,1,Md. Hares Uddin (Mirpur),01621893125,60,60,0.6,Paid,replace hobe -
+2023-12-06 05:04:21 pm,51866803,3176CB350,N/A,MOHIUDDIN,01934809120,"Comilla Chokbazer, Sazzad Medical Comilla.",Cumilla,Delivered,Delivered,2,Fahim,01978940582,2250,150,22.5,Paid,-
+2023-12-06 05:05:54 pm,51867004,3176D7C30,N/A,HASAN BADRUL NIJHU,01313026460,"H-41,R-10,Sector-14,Uttara,Dhaka",Turag,Delivered,Delivered,1,Arman Mia,01892189357,1100,70,11,Paid,-
+2023-12-07 08:50:15 pm,51987404,31943CC4A,N/A,M. MIZBAH UR RAHMAN,01919494749,"Senior Judicial Magistrate
+Chief Judicial Magistrate Court
+Moulavibazar",Moulvibazar,Delivered,Delivered,3,Md Baizid Mia,01330864839,1080,130,10.8,Paid,-
+2023-12-07 08:55:05 pm,51987864,31945989C,N/A,মো: সাদিকুল ইসলাম,01765248205,"ঢাকা মিরপুর ১,,তুরাকছিটি পিয়াংকা হাউজ,
+খোরশেদা টাওয়ার,,১নাম্বার রোড
+২৮ নাম্বার বাড়ি,, ঢাকা ১২১৬",Kollayanpur,Delivered,Delivered,1,Arafat Rahman(Kollayanpur),01789876340,1200,70,12,Paid,-  CBM
+2023-12-07 08:57:45 pm,51988078,319466E56,N/A,ANAMUL HOQUE,01610243427,Chottogram. CEPZ YMA complex rod no 3 gait no.5,Patenga Hub,Delivered,Delivered,2,Abu Sayed Patenga,01615108649,1300,130,13,Paid,-  CBM
+2023-12-07 09:01:46 pm,51988480,3194800D9,N/A,SHUBAS AHMED,01711925082,"Joypurapara, Bogura Sadar.",Bogura,Delivered,Delivered,1,Samiul Alim....Bogura,01761158036,1030,130,10.3,Paid,-
+2023-12-07 09:06:01 pm,51988754,319491269,N/A,মাহফুজুর রহমান,01736068300,"BKSP,  জিরানী বাজার।",Ashulia,Delivered,Delivered,1,Shubho Hossain (Ashulia),01600328499,950,100,9.5,Paid,-  CBM
+2023-12-07 09:08:31 pm,51989044,3194A3450,N/A,SIDDIK,01863117874,"Bangabandhu road
+Ashulia,savar,dhaka",Ashulia,Delivered,Delivered,1,Md Younus Ali(Ashulia),01762886601,1400,100,14,Paid,-  CBM
+2023-12-08 05:25:48 pm,52039095,31A0DB7A1,N/A,IKRAM,01977885497,Kawniya Rongpur,Kaunia (Rangpur),Delivered,Delivered,4,Nur Azom Khusbu,01767188411,1130,130,11.3,Paid,-
+2023-12-08 05:28:18 pm,52039411,31A0EF397,N/A,হুমায়ূন,01869697473,নারায়ণগঞ্জ পঞ্চ বটি ডালডা গেট,Sutrapur,Cancelled,Cancelled,1,Mahbub ( Fatullah),01624318597,1000,100,0,Paid,-  CBM
+2023-12-09 05:36:17 pm,52120034,31B49E2B4,N/A,সনেট,01715464351,"শীতল ছায়া সোসাইটি ২৬৬/৩, পশ্চিম মানিকদী, ঢাকা ক্যান্টনমেন্ট, ঢাকা",Kafrul,Delivered,Delivered,1,Nahid Hasan(Kafrul),01323823811,1010,70,10.1,Paid,-  CBM
+2023-12-10 04:41:19 pm,52203988,31C91D405,N/A,EDRISH ALI,01903087954,"Nasirabad, sershah, bayejid Chittagong",Oxygen (CTG),Delivered,Delivered,4,Bayzid (Oxygen),01773075510,2050,150,20.5,Paid,-  CBM
+2023-12-10 04:49:04 pm,52205065,31C960965,N/A,SADIA AFROZ,01937009310,"Sakib Villa, House no 90, Road no 01, Block-A, Notungaon, Panchashar, Munshiganj Sadar, Munshiganj
+(PBI office er goli)",Munshiganj,Delivered,Delivered,2,Md.Saddam (Badda),01862907172,1230,130,12.3,Paid,-  CBM
+2023-12-10 05:25:25 pm,52209897,31CA8E9E3,N/A,AWAL,01608516218,"Genda,Savar",Savar,Delivered,Delivered,2,Habibur Rahman (Savar),01616705699,1100,100,11,Paid,-  CBM
+2023-12-11 04:50:31 pm,52294285,31DF28DC3,N/A,মাহফুজুর রহমান,01736068300,"BKSP,  জিরানী বাজার।",Ashulia,Delivered,Delivered,1,Abdul baki(Ashulia),01312611276,950,100,9.5,Paid,-  CBM
+2023-12-11 04:55:24 pm,52294876,31DF4DC9A,N/A,মোঃতারিক ইসলাম,01780472107,থানাঃপবা।।জেলাঃরাজশাহী,Paba (Rajshahi),Delivered,Delivered,1,Saddam Hossen,01945951893,1030,130,10.3,Paid,13 tarik er moddhe deliver korte hobe -
+2023-12-11 04:56:51 pm,52295043,31DF5833D,N/A,SIDDIK,01748626984,"Akber Plaza High School Road Bhedarganj Bazar, Shariatpur",Bhedarganj (Shariatpur),Delivered,Delivered,1,Md : Ripon,01826746468,1330,130,13.3,Paid,-
+2023-12-11 05:00:42 pm,52295485,31DF73D8A,N/A,BAIOJED HASAN,01682388583,"H-41,R-10,Sector-14,Uttara,Lift 3 ta utha left side flat",Turag,Delivered,Delivered,1,Md. Shahinur islam(Uttara),01822299019,660,70,6.6,Paid,-
+2023-12-12 04:57:23 pm,52384333,31F524D18,N/A,মো নয়ন শেখ,01748267808,রুপ পুর গ্রীন সিটি পাবনা,Ishwardi (Pabna),Delivered,Delivered,5,Sazzad Hossain...(Ishwardi),01568976936,930,110,9.3,Paid,-
+2023-12-12 04:58:52 pm,52384494,31F52EE38,N/A,মোঃ রোবায়েত ইসলাম,01625036008,"Quasem drycell mill
+গোড়াই মির্জাপুর টাঙ্গাইল",Mirzapur (Tangail),Delivered,Delivered,1,Anas...(Mirzapur),01786130555,1130,110,11.3,Paid,-
+2023-12-12 05:00:46 pm,52384686,31F53AE15,N/A,AKASH HUSSAIN,01837330660,Dhanmondi  road 3 Dhaka,Sutrapur,Cancelled,Cancelled,5,Milon(Dhanmondi),01717038185,2150,90,0,Paid,-
+2023-12-12 05:12:54 pm,52386220,31F59ACB7,N/A,MD. FARUQUE HOSSAIN,01322890147,"Arambag mor, Dhaka",Motijheel,Delivered,Delivered,1,Sojeeb(Motijheel),01931361382,1060,60,10.6,Paid,-
+2023-12-13 05:02:01 pm,52472921,320AC594A,N/A,TANVIR AHMED,01685556997,"52/1 Nawab Gonj Road Dhaka ,P.o.=Posta.                   P.s=Lalbagh",Old Dhaka,Delivered,Delivered,4,Ferdous mahmud,01679097161,1360,70,13.6,Paid,-  CBM
+2023-12-13 05:04:32 pm,52473309,320ADDDFE,N/A,মোঃ নাসির উদ্দিন,01795435563,বরিশাল সেনানিবাস লেবুখালী,Bakerganj (Barishal),Delivered,Delivered,3,Apurbo Chandro,01764802214,1380,130,13.8,Paid,-
+2023-12-14 05:33:12 pm,52565242,32214FA4F,N/A,মেহেদী হাসান,01307965373,"জেলা : দিনাজপুর সদর,
+ফকিরপাড়া ডিজিটাল ছাত্রাবাস",Dinajpur,Delivered,Delivered,1,Afsar Ali...Dinajpur,01755940258,1130,130,11.3,Paid,-
+2023-12-14 05:45:02 pm,52566900,3221B74E4,N/A,তানভীন,01918180976,"নিউটাউন, কিশোরগঞ্জ, ওয়ালী নেওয়াজ খান কলেজ রোড",Kishoreganj,Delivered,Delivered,2,Imran(Kishoreganj),01756947693,1130,130,11.3,Paid,-
+2023-12-14 05:47:25 pm,52567266,3221CE290,N/A,RAMJAN HOSSAIN,01992630015,"Jessore sadar, chowrasta thanar mor",Jashore,Delivered,Delivered,2,Israil hossen (Jashore ),01635096139,1130,130,11.3,Paid,-
+2023-12-14 05:55:07 pm,52568953,3222379B3,N/A,MD.SAMI AHMED,01775950999,"Tara Manzil,Nillima-48/2,VIP road,khuliatula,Sylhet",Sylhet,Delivered,Delivered,2,Jakirul Islam Jibon,01751943838,1050,130,10.5,Paid,-  CBM
+2023-12-14 05:59:00 pm,52569727,322267FF9,N/A,SAJJADUL KABIR,01962424586,"House 5, road 1, block G , banasree , rampura, Dhaka ,",Rampura,Delivered,Delivered,1,Md Alamgir Hossain(Rampura),01735679243,1010,70,10.1,Paid,Jodi size hoy tahole full payment hobe r jodi na hoy tahole cancel -  CBM
+2023-12-14 06:02:41 pm,52570239,322287F1A,N/A,MD.FORID,01721889916,"Road #15, House #43, Rupnagar residential area, Mirpur Dhaka 1216,",Sutrapur,Cancelled,Cancelled,1,Motiar (Van) (Mirpur),01967813505,1080,90,0,Paid,Size check kore jekono ekta nibe. Arekta ferot asbe -  CBM
+2023-12-15 12:31:09 am,52614447,322D52F88,N/A,FAHAD,01684615115,Soniakhra.paterbag.baitul aman mosjid Dhaka,Sutrapur,Pending,Cancelled,,Tanvir - Khilgaon Express,01328966935,1350,100,0,Paid,-  CBM
+2023-12-15 06:06:43 pm,52646811,323539B64,N/A,RAAHIM,01629271197,"South Donia(New AK School road), Kadamtali, Dhaka",Jatrabari,Delivered,Delivered,1,Rabbi 2(Jatrabari),01941672828,810,70,8.1,Paid,-
+2023-12-15 06:07:39 pm,52646939,323541B72,N/A,সনেট,01715464351,"শীতল ছায়া সোসাইটি ২৬৬/৩, পশ্চিম মানিকদী, ঢাকা ক্যান্টনমেন্ট, ঢাকা",Sutrapur,Delivered,Delivered,1,Md. Shamim Mia (Kafrul),01784056426,0,60,0,Paid,Replace hobe -
+2023-12-15 07:33:08 pm,52656782,3237A8E58,N/A,মোঃ শিপন,01923378702,মানিকনগর ঢাকা ১২০৩,Khilgaon,Delivered,Delivered,1,Riajul Karim(Khilgaon),01956462227,2030,90,20.3,Paid,-
+2023-12-16 05:04:29 pm,52710298,3244B9AEE,N/A,YAMIN,01836977260,"Jamuna future park er oposite him bari, Dhaka",Gulshan,Delivered,Delivered,2,Sajib Ahmed (gulshan),01885916959,1000,60,10,Paid,-  CBM
+2023-12-16 05:15:19 pm,52711742,324513EA3,N/A,TONMOY KUMAR DAS,01883505994,"143/2 (3rd floor), mollapara (opposite of Bilkis cottage),  Taltola, Agargaon, Dhaka-1207",Agargaon,Delivered,Delivered,1,Shahinur(Agargaon),01861603349,1310,70,13.1,Paid,-  CBM
+2023-12-16 05:17:13 pm,52711898,32451DAAD,N/A,MUHAMMAD YASIN,01768292994,"Jalalabad, ambhorkhana , sylhet",Sutrapur,Cancelled,Cancelled,9,Md Rakib Hasan(Sylhet),01816844240,1380,130,0,Paid,The Parcel has been lost by the rider on delivery. How many Days Will the refund be given
+2023-12-17 05:56:23 pm,52793493,325909558,N/A,নাঈমুল ইসলাম,01754392272,বাড়িধারা ডিপলোমেটিক জোন ১৩ নং গেইট Dhaka,Gulshan,Delivered,Delivered,1,Bulu(Gulshan),01977514042,1060,60,10.6,Paid,-  CBM
+2023-12-19 04:38:09 pm,52964672,3282D4001,N/A,MUHAMMAD FAZLE RABBI,01310504503,"In front of Sikdarpara jame mosjid, Beltola, Amanotgonj , Barisal Sadar",Barishal,Delivered,Delivered,2,Md Bayezid Akon,01706460376,0,90,0,Paid,-
+2023-12-20 06:20:35 pm,53067136,329BD8004,N/A,SEYAM BIN SAZZAD,01708489122,"House 7/7A, Reception Floor W-7, Sector 17, Block H-1 BGMEA Complex, Uttara, 1230",Turag,Delivered,Delivered,1,Md: Sumon Mia(Turag),01814657634,1010,70,10.1,Paid,-  CBM
+2023-12-22 05:16:07 pm,53225721,32C28F938,N/A,DENISH,01884117891,"Dhaka.
+Bonani.
+Road28- block-k.
+House-15",Gulshan,Delivered,Delivered,1,Mizanur (Gulshan),01718419689,1060,70,10.6,Paid,-  CBM
+2023-12-22 05:25:02 pm,53226786,32C2D22D0,N/A,ইসরাফিল,01885742888,"জেলা : গোপালগঞ্জ 
+থানা : টুঙ্গিপাড়া 
+গ্রাম :পাঁচকাহনিয়া",Tungipara (Gopalganj),Delivered,Delivered,1,Osman,01925473108,1130,130,11.3,Paid,-
+2023-12-22 06:48:21 pm,53237034,32C552AE2,N/A,মোঃতারিক ইসলাম,01780472107,রাজশাহী রেলগেট ইস্টেডিয়াম,Rajshahi,Delivered,Delivered,2,Shuvo,01719473036,3800,170,38,Paid,রবিবারে বেলা ১টা থেকে ৪টার ভেতর পারসেল ইস্টে ডিয়ামে আনতে হবে -
+2023-12-22 06:50:23 pm,53237254,32C56064D,N/A,RAMJAN HOSSAIN,01992630015,"Jessore sadar, chowrasta thanar mor",Sutrapur,Delivered,Delivered,2,Shamim Reza,01799039993,130,130,1.3,Paid,Parcel exchange hobe -
+2023-12-23 05:10:09 pm,53302475,32D54CBBE,N/A,ইসরাফিল,01885742888,"জেলা : গোপালগঞ্জ 
+থানা : টুঙ্গিপাড়া 
+গ্রাম :পাঁচকাহনিয়া",Sutrapur,Delivered,Delivered,1,Osman,01925473108,130,130,1.3,Paid,COD '150' to '130'.
+2023-12-23 05:17:02 pm,53303717,32D59A5C3,N/A,MD. RAKIB HASAN,01912962807,"Upzila lged office কোম্পানীগঞ্জ উপজেলা., নোয়াখালী",Companiganj (Noakhali),Delivered,Delivered,1,Washim Akram...(Companiganj),01602803933,1380,130,13.8,Paid,-
+2023-12-24 05:00:42 pm,53390671,32EAD4F38,N/A,KONOK,01740175756,Panchagarh sadar,Panchagarh,Delivered,Delivered,3,Arif Sultan,01311067436,2050,150,20.5,Paid,-
+2023-12-25 04:14:22 pm,53472315,32FEC3B2B,N/A,RABBI,01317560351,Puraton passport Office er pichone Qureshnogor Habigonj sodor,Habiganj,Delivered,Delivered,4,Naeem...Habiganj,01714038739,1130,110,11.3,Paid,-
+2023-12-25 04:19:09 pm,53472807,32FEE27DC,N/A,ISHITA KHAN,01843879422,Dhaka cantonment east kafrul jannat Villa 210/1 3rd floor,Kafrul,Delivered,Delivered,1,Redwan(Kafrul),01306184993,1060,60,10.6,Paid,-  CBM
+2023-12-25 04:21:54 pm,53473154,32FEF8281,N/A,মোঃতারিক ইসলাম,01780472107,রাজশাহী রেলগেট ইস্টেডিয়াম,Rajshahi,Delivered,Delivered,1,Shuvo,01719473036,3800,170,38,Paid,-
+2023-12-26 03:58:27 pm,53557578,331394A8A,N/A,MAHFUZUR RAHMAN,01838542197,"District :Sylhet
+Upazila :Beani bazer 
+
+village :Jaldhup",Sutrapur,Partially Delivered,Partially Delivered,2,Shafi Ahmed,01892729700,100,110,1,Paid,-  CBM
+2023-12-27 01:01:47 am,53617209,332223919,N/A,ENGR. CHANDAN SUTRADHAR,01750992171,"Sheikh Hasina Textile Engineering College, Shibchar, Madaripur",Shibchar (Madaripur),Delivered,Delivered,0,Rakib Madbor,01753262122,1080,130,10.8,Paid,-
+2023-12-27 06:14:49 pm,53661517,332CF4D05,N/A,RAKIB AHMED,01401869048,"Simla road,porabari
+Thana: Gopalpur 
+Zela: tangail
+Division :dhaka",Ghatail (Tangail),Delivered,Delivered,1,MD Rakibul Bari,01864238993,1130,130,11.3,Paid,-
+2023-12-27 06:46:37 pm,53667499,332E6AB83,N/A,ওয়াহিদুর রহমান,01835119199,"জেলা: সিলেট 
+উপজেলা : বিয়ানীবাজার 
+মুড়িয়া ইউনিয়ন 
+সারপার বাজার 
+আষ্টঘরী",Beanibazar(Sylhet),Delivered,Delivered,3,Pappu Deb,01877273887,1130,130,11.3,Paid,-  CBM
+2023-12-27 06:49:35 pm,53667985,332E891E8,N/A,RIYAD,01774136823,"Sathibari, Mithapukur, Rangpur",Sutrapur,Cancelled,Cancelled,7,Md.Mojahidul Islam...Shatibari,01762919658,1080,130,0,Paid,-
+2023-12-28 03:24:54 pm,53728154,333D39AB1,N/A,SOHEL AHMED,01903389753,Olipur,Sutrapur,Cancelled,Cancelled,12,Ashrafur Rahaman,01783261169,1130,130,0,Paid,-
+2023-12-28 03:33:21 pm,53728968,333D6C856,N/A,HR KHAN,01826166324,"বিভাগ: রংপুর
+জেলা: দিনাজপুর সদর
+গ্ৰাম: ৬ নং আউলিয়া পরিষদ, চেরাডাঙ্গী, দক্ষিণ ফরিদপুর",Dinajpur,Delivered,Delivered,2,Sarowar Alam...(Dinajpur),01794749046,1130,130,11.3,Paid,-
+2023-12-28 03:50:59 pm,53730374,333DC46F6,N/A,রাতুল,01986635288,"বকচর হুশতলা চক্ষুহাসপাতাল, যশোর --( যশোর ) সদর",Jashore,Delivered,Delivered,2,Israil hossen (Jashore ),01635096139,1130,130,11.3,Paid,-
+2023-12-28 04:02:19 pm,53731601,333E1117F,N/A,ZAWAD,01715726150,"Sholokbahar pakhir dukan, panchlish,Chittagong",Chawakbazar (CTG),Delivered,Delivered,1,Nur Mahommd,01798713955,1380,130,13.8,Paid,-  CBM
+2023-12-28 04:30:24 pm,53734899,333EDF331,N/A,ATIQ HASAN,01912773509,"Dhanbari, Dist: Tangail",Sutrapur,Cancelled,Cancelled,5,Aynal haque...Modhupur,01621400277,1130,110,0,Paid,-
+2023-12-28 04:34:16 pm,53735288,333EF78A2,N/A,MS. NAFIS MOKARRAM,01784125834,"Ramakrishnapur, lalpur, natore",Boraigram (Natore),Delivered,Delivered,2,Alamin Sarker  (Boraigram natore),01318086656,1130,130,11.3,Paid,-
+2023-12-30 05:11:04 pm,53896725,33666155D,N/A,রাহাত হোসাইন,01787489849,দক্ষিণ হাশিমপুর বড় পাড়া চন্দনাইশ চট্টগ্রাম।,Sutrapur,Partially Delivered,Partially Delivered,2,Mostakim,01302189537,2000,170,20,Paid,-  CBM
+2023-12-31 05:19:41 pm,53989098,337CEEA2C,N/A,MD.JEWEL RANA,01773808787,"Jelar name-Kurigram 
+Thana name-bhurungamari 
+Gram-dewanarkhamar",Nageshwari (Kurigram),Delivered,Delivered,2,Md Robiul Alam...(Kurigram),01739517755,1130,110,11.3,Paid,-
+2023-12-31 07:10:02 pm,54005629,3380F7DDE,N/A,DIPTA BARUA,01824340687,JHAUTOLA COXBAZAR SADOR (REDIANT FISH WORLD),Cox's Bazar,Delivered,Delivered,2,Abdullah Al Mamun...Coxbazar,01305406627,1500,130,15,Paid,-
+2024-01-01 05:21:02 pm,54072550,33914E60A,N/A,TAMIM IQBAL,01612286995,Dhara Bazar.. Haluagat ..mymensingh..,Sutrapur,Cancelled,Cancelled,3,Rana Mia ( Haluaghat),01631418442,1130,130,0,Paid,-
+2024-01-01 05:22:52 pm,54072740,33915A407,N/A,IBRAHIM HOSSAIN,01881357767,বাংগড্ডা বাজার নাঙ্গালকোট কুমিল্লা,Nangalkot (Cumilla),Delivered,Delivered,2,Kawser-2...(Nangalkot),01757898835,1130,130,11.3,Paid,-
+2024-01-02 04:42:03 pm,54154816,33A5640D4,N/A,সোহাগ আহমেদ,01792138481,মজুমদার পাড়া রোড নং 7 গলি নং 3 বাসা নং 39,Sylhet,Delivered,Delivered,2,Rahed,01918402683,1080,110,10.8,Paid,-  CBM
+2024-01-02 04:47:09 pm,54155425,33A58A1B5,N/A,সাকিব আফ্রিদী,01795495433,চট্টগ্রাম ফটিকছড়ি ভুজপুর শান্তিরহাট,Bhujpur(Fatikchhari)- CTG,Delivered,Delivered,1,Md Shakib,01879267479,1130,110,11.3,Paid,-  CBM
+2024-01-02 04:55:48 pm,54156859,33A5E3B99,N/A,WASIF WASI,01778755723,"Hazipur, ward no 3
+
+Narsingdi Sadar (HAZIPUR NASIRUDDIN MEMORIAL HIGH SCHOOL)",Narsingdi,Delivered,Delivered,7,Asif Molla (Narshingdi ),01964108776,1530,130,15.3,Paid,-
+2024-01-03 05:06:54 pm,54250188,33BCACC33,N/A,তমাল,01719143942,পানিউমদা নবীগঞ্জ হবিগঞ্জ,Nabiganj (Habiganj),Delivered,Delivered,3,Hafiz..Sherpur Moulvibazar,01323846897,1130,130,11.3,Paid,-
+2024-01-05 05:13:16 pm,54435944,33EA06855,N/A,ATIKUR RAHMAN,01566023474,"Rajshahi University, maderbux hall",Sutrapur,Cancelled,Cancelled,6,Shahad Ali (Rajshahi),01797376405,1130,130,0,Paid,-
+2024-01-05 05:28:22 pm,54437713,33EA75131,N/A,FAHIM AHNAF,01679704876,"05/01/A, south banashree, A block (uttara bank goli, Hazi tower)",Rampura,Delivered,Delivered,1,Shadikul Islam(rampura),01602476181,960,70,9.6,Paid,-  CBM
+2024-01-05 05:35:53 pm,54438869,33EABD5E8,N/A,TAJMOL AHMED,01728085002,Uttar Baluchor Sylhet,Sutrapur,Cancelled,Cancelled,5,Rayhan,01722674093,1030,130,0,Paid,-  CBM
+2024-01-05 06:36:24 pm,54447798,33ECEB6D4,N/A,মো: আলমগীর,01763005201,"নোয়ারাই বাজার, ছাতক, সুনামগঞ্জ",Chatok-Gabindaganj (Sunamganj),Delivered,Delivered,3,Abul Hasanath,01719962357,1000,130,10,Paid,-
+2024-01-05 07:41:08 pm,54457074,33EF2F2B7,N/A,মাহবুবুল ইসলাম,01842264748,"শান্ত কুটির
+মো: জয়নাল আবেদীন এর বাড়ি
+অক্সিজেন রোড, ভাটিয়ারী, সীতাকুণ্ড, চট্টগ্রাম-৪৩১৫।
+(৬ তলা সাজেদা টাওয়ার বিল্ডিং এর কাছে)",City Gate (CTG),Delivered,Delivered,3,Md.Rafikul Islam(City Gate),01875241287,2850,150,28.5,Paid,-  CBM
+2024-01-08 05:42:34 am,70020313,42C6CD99D,N/A,SUMON,01718173542,"Square hispitals
+panhopath Dhaka 1215",Express Delivery,Delivered,Delivered,0,Imran - Dhanmondi Express,01717308785,1060,100,10.6,Paid,-  CBM
+2024-01-08 04:01:01 pm,70061095,42D0C2764,N/A,শেখ রিয়াদ,01883444448,"ধামরাই বাজার,ঢাকা-১৩৫০",Dhamrai,Delivered,Delivered,2,Suruz Mia(Dhamrai),01889650084,960,100,9.6,Paid,-  CBM
+2024-01-08 04:06:25 pm,70061953,42D0F81BA,N/A,রিমন দেওয়ান,01986139231,"গাজীপুর , কাপাসিয়া , সূর্যনারায়নপুর গ্রাম ,নতুনবাজার",Kapasia (Gazipur),Delivered,Delivered,2,Imran Shek..(kapasia),01724619530,1030,100,10.3,Paid,-  CBM
+2024-01-08 04:11:27 pm,70062697,42D12690B,N/A,IMRAN,01766101055,"Nilphamari Sadar, Nilphamari",Nilphamari,Delivered,Delivered,1,Dalim Ray...Nilphamari,01763841637,1030,130,10.3,Paid,-
+2024-01-08 04:15:12 pm,70063382,42D15162E,N/A,মুস্তাকিম,01322598645,গ্রাম জুহুর পুর গোপলার বাজার রোড হবিগঞ্জ জেলা নবীগঞ্জ থানা,Sutrapur,Cancelled,Cancelled,6,Hafiz..Sherpur Moulvibazar,01323846897,1000,130,0,Paid,-
+2024-01-08 04:30:42 pm,70066020,42D1F640D,N/A,JUBAYER AHMAD,01721425036,"Bagorkhola,Lalabazar,south surma,sylhet",South Surma (Sylhet),Delivered,Delivered,2,Mobarak Hossain(Sylhet),01611731090,1030,130,10.3,Paid,-  CBM
+2024-01-08 04:41:51 pm,70068371,42D289355,N/A,TAHSIN AHMED ABIR,01718068740,Dhaka Tejgaon kunipara Happy Homes Abir Monjil building 23/4F,Tejgaon,Delivered,Delivered,1,Md Golam rabbani (tejgaon),01956803535,1010,70,10.1,Paid,-  CBM
+2024-01-08 04:49:13 pm,70070026,42D2F0A98,N/A,হাজী মো: আলী আজগর,01819634574,"বড় দিঘীর পাড় 
+হাটহাজারী চট্টগ্রাম",Hathazari,Delivered,Delivered,2,Sumon (Hathazari),01818323032,1030,130,10.3,Paid,-  CBM
+2024-01-08 04:53:42 pm,70071085,42D332DE1,N/A,সাকিব হোসাইন,01883541687,"ঈশাল গার্ডেম, মুসলিম নগর, মাতুয়াইল, ডেমরা, ঢাকা",Kadamtali,Delivered,Delivered,1,Rubel(Kadamtali),01404798879,1000,70,10,Paid,-  CBM
+2024-01-08 04:58:57 pm,70072183,42D37777E,N/A,মো: শাকিল,01645919188,"রাঙ্গামাটি তবলছড়ি
+ বি জি বি  রোড ৪ নং ওয়াড",Rangamati,Delivered,Delivered,7,Hillol Chakma,01518310360,980,130,9.8,Paid,-
+2024-01-08 05:07:25 pm,70074260,42D3F942B,N/A,JUNE,01891871919,"Thana:-Nilphamari 
+Village :- Dream Galaxy water pool, Master para",Nilphamari,Delivered,Delivered,2,Md Mamun Ali...Nilphamari,01317333287,1030,130,10.3,Paid,-
+2024-01-08 05:11:28 pm,70075186,42D433219,N/A,AMRANUL HOQUE,01822340271,"Banskhali,ctg,,,Bosirulla miazir bazar",Sutrapur,Cancelled,Cancelled,7,Abdur Rahim...Banskhali,01315254860,1000,130,0,Paid,-  CBM
+2024-01-08 05:15:16 pm,70075943,42D462727,N/A,ROHAN,01617157609,"Kalisonkorpur, kushtia Sodor, kushtia",Kushtia,Delivered,Delivered,6,Mahbub Kushtia,01821829283,1030,130,10.3,Paid,-
+2024-01-08 05:26:32 pm,70078728,42D510866,N/A,MAHFUZ,01781888955,"Kadoa Bazar, Sujanagar, Pabna",Sujanagar (Pabna),Delivered,Delivered,4,Nafiz Pabna,01629465327,1300,130,13,Paid,-
+2024-01-08 06:14:13 pm,70090036,42D7D3421,N/A,তানিম,01888524008,"রাজশা সাগরপাড়া 
+থানা বোয়ালিয়া রাজশাহী",Rajshahi,Delivered,Delivered,1,Rakibul Rajshahi,01719353392,1030,130,10.3,Paid,-
+2024-01-09 05:58:24 pm,70220627,42F7B53F8,N/A,সাকিব হোসাইন,01883541687,"চাঁদপুর সদর,বাস স্টান্ড, ব্যাংক কলোনী, আল কারিম প্লাজা।",Chandpur,Delivered,Delivered,1,Anik(Chandpur),01646166196,1000,130,10,Paid,-
+2024-01-09 06:26:34 pm,70226254,42F914E9C,N/A,RAIHAN,01839159049,"Amin complex,1no Panirkoll, halishahar road, Chittagong",Sutrapur,Cancelled,Cancelled,1,Saifur Rahman(City Gate),01611904003,1000,110,0,Paid,-
+2024-01-09 06:34:28 pm,70227535,42F964F8F,N/A,MD SOBUR KHAN,01332793311,"Habibganj 
+Gram sadukpur   
+nabiganj  Road",Sutrapur,Cancelled,Cancelled,7,Md Akib,01772419032,1130,110,0,Paid,-z/c
+2024-01-10 06:02:22 pm,70326199,43117B73B,N/A,RAKIB,01736018359,"1040/1, East monipur, mirpur-2, Dhaka",Mirpur,Delivered,Delivered,1,Amzad (Mirpur),01828018905,960,70,9.6,Paid,-  CBM
+2024-01-10 06:04:50 pm,70326599,4311947AA,N/A,মো: আব্দুল্লাহ আল নোমান,01782526640,"বান্দরবান পাবর্ত্য জেলা,, লাংগীপাড়া ৯ নং ওয়ার্ড়",Bandarban,Delivered,Delivered,3,Sundar Kumar Tanchangya,01648180438,1030,130,10.3,Paid,-
+2024-01-10 06:14:25 pm,70328550,43120E6F2,N/A,NIPUN NAZMUL,01676940002,"Joyar sahara jomoz road k-92/2 dhaka, 1229",Gulshan,Delivered,Delivered,1,Sajib Ahmed (gulshan),01885916959,960,60,9.6,Paid,-  CBM
+2024-01-10 06:19:55 pm,70329493,4312495E5,N/A,সুমন মাহমুদ,01892547925,"বাস টার্মিনাল , পটুয়াখালী ৮৬০০",Patuakhali,Delivered,Delivered,2,Md Emran Hossain (Patuakhali),01641609603,1230,90,12.3,Paid,-
+2024-01-11 05:46:06 pm,70436914,432C832EF,N/A,মো:পলাশ,01766779611,লহ্মীপুর সদর,Laxmipur,Delivered,Delivered,3,Rayhan(Laxmipur),01890776524,1030,130,10.3,Paid,-
+2024-01-11 05:46:22 pm,70436958,432C85E5A,N/A,JUNE,01891871919,"Thana:-Nilphamari 
+Village :- Dream Galaxy water pool, Master para",Nilphamari,Delivered,Delivered,2,Md Mamun Ali...Nilphamari,01317333287,1450,150,14.5,Paid,-
+2024-01-13 04:57:26 pm,70612260,4357524CD,N/A,মোঃ সজিব হোসাইন,01872139493,থানা: চান্দিনা: বেলাশ্বহর,Chandina (Cumilla),Delivered,Delivered,3,MD Asif Arman...(Chandina),01893248716,1030,130,10.3,Paid,-
+2024-01-13 05:02:51 pm,70613086,435785EB9,N/A,SIAM HASSAN,01406822049,"Jamalpur, boksigonj, sarmara bazar",Bakshiganj (Jamalpur),Delivered,Delivered,2,Md. Murshed (Bakshiganj),01648822080,1650,130,16.5,Paid,-
+2024-01-13 05:08:26 pm,70613962,4357BCAF3,N/A,MD TAYUB,01929563579,মিরপুর 11 নম্বর লালমাইডটারটেম্পু ইস্টান  উত্তর পাশে আলতাব মিয়ার ডিস লাইন অফিস নাম্বার দুই রোড নাম্বার ৪ বি ব্লক,Pallabi,Delivered,Delivered,1,Sagor Islam(Pallabi),01796709488,1060,70,10.6,Paid,-  CBM
+2024-01-14 05:13:39 pm,70719817,4371949D1,N/A,IMRAN AHMED,01403163931,"Diamond footwear, Trade center 2nd floor, 135 dhaka trade center,  Gulistan",Gulistan,Delivered,Delivered,1,Laden (Gulisthan),01304425762,1610,70,16.1,Paid,-  CBM
+2024-01-14 05:45:01 pm,70724874,4372D0A50,N/A,KHORSHED ALAM RIPON,01628000444,Ward -23.Porabari Bazzar.Gazipur city corporation.Gazipur sodor.Gazipur.,Sutrapur,Partially Delivered,Partially Delivered,1,Mijanur Rahman(Gazipur),01938577465,1100,120,11,Paid,-  CBM
+2024-01-16 05:30:53 pm,70919810,43A26821F,N/A,MD SHOHAGH,01714368710,"Village:khoribari post:khoribarihut Thana:Niamotpur 
+jela:nowga",Manda (Naogaon),Delivered,Delivered,2,Samim,01312842772,1030,110,10.3,Paid,-
+2024-01-16 06:07:47 pm,70927369,43A44096C,N/A,আলাউদ্দিন,01646249963,"চাঁদপুর সদর, বাস স্টান্ড, মাদ্রাসা রোড, মুন্সি বাড়ি",Chandpur,Delivered,Delivered,1,Anik(Chandpur),01646166196,1000,110,10,Paid,-
+2024-01-16 06:10:49 pm,70927824,43A45D02C,N/A,মহিউদ্দিন,01686824399,"মিরপুর ২ 
+
+ব্লক H
+রোড ৬
+বাসা ৯
+মিরপুর শেরেবাংলা জাতীয় ক্রিকেট স্টেডিয়ামের পশ্চিম পাশে",Kollayanpur,Delivered,Delivered,1,Monirul Islam(Kollyanpur),01796986368,560,60,5.6,Paid,-  CBM
+2024-01-17 05:42:06 pm,71022740,43BB8942D,N/A,মোস্তাক আহমেদ মোহন মেম্বার,01725441211,শাজাহান পুড় উল্লাপাড়া সিরাজগঞ্জ,Sutrapur,Cancelled,Cancelled,5,Ibrahim Hossan,01707234129,2200,150,0,Paid,-
+2024-01-17 05:58:18 pm,71025619,43BC3D347,N/A,PAYEL,01969831281,195 senpara Mirpur 10,Mirpur,Delivered,Delivered,1,Azizul Islam (Mirpur),01991705701,1060,60,10.6,Paid,-  CBM
+2024-01-18 03:49:45 am,71085882,43CAF3A7A,N/A,মেরিন,01835554960,২২/৪ ব্লক বি বাবর রোড মোহাম্মদপুর ঢাকা ১২০৭,Sutrapur,Cancelled,Cancelled,1,Md.Jakerul islam,01743653261,1000,100,0,Paid,৬ টার মধ্য পৌঁছে দেওয়ার চেষ্টা করবেন -  CBM
+2024-01-18 04:58:46 pm,71116565,43D2715BF,N/A,NAHED,01913021675,"Uttara Sector-10, 
+Road: 04
+Hold: 35",Uttara,Delivered,Delivered,1,Rayhan Uttara,01938381717,1880,90,18.8,Paid,-  CBM
+2024-01-18 05:23:08 pm,71120081,43D34D1C0,N/A,MD SHOHAGH,01714368710,"Village:khoribari post:khoribarihut Thana:Niamotpur 
+jela:nowga",Manda (Naogaon),Delivered,Delivered,2,Hashiqul,01796907962,1950,150,19.5,Paid,-
+2024-01-18 05:27:40 pm,71120636,43D36FC72,N/A,SABUJ CHAKMA,01617551082,"Khagrachari, dighinala , bagaichari muk, Ananda bazar",Sutrapur,Cancelled,Cancelled,4,Milon chakma,01518366499,1330,130,0,Paid,-
+2024-01-18 08:55:01 pm,71152865,43DB4E157,N/A,MD SHOHAGH,01714368710,"Village:khoribari post:khoribarihut Thana:Niamotpur 
+jela:nowga",Manda (Naogaon),Delivered,Delivered,2,Hashiqul,01796907962,1030,130,10.3,Paid,-
+2024-01-18 09:02:17 pm,71153890,43DB8E234,N/A,মিয়াদুল হাসান মিলন,01765669166,"থানা : জামালগঞ্জ 
+জেলা : সুনামগঞ্জ",Jamalganj (Sunamganj),Delivered,Delivered,2,Sudip Das,01781858466,1130,130,11.3,Paid,-
+2024-01-20 05:28:16 pm,71291688,43FD32827,N/A,RUBAYED RAFI,01829629995,Khulshi Chittagong nahar agro office er samne,City Gate (CTG),Delivered,Delivered,1,S m anwarul Aziz(City Gate),01817223016,1000,110,10,Paid,-  CBM
+2024-01-20 05:30:20 pm,71291978,43FD44A51,N/A,শাহিনা আক্তার,01789326302,"মেরুল বাড্ডা ডি আই টি প্রোজেক্ট, রোড নং ১১,বাসা নং ৬১",Badda,Delivered,Delivered,1,Al mamun (Badda),01826037573,1060,60,10.6,Paid,-  CBM
+2024-01-20 05:31:54 pm,71292230,43FD5464A,N/A,আমির,01966667557,"সলিমগঞ্জ বাজার,
+অনবীনগর, ব্রাহ্মণবাড়িয়া",Nabinagar (B Baria),Delivered,Delivered,2,Rohan Uddin,01310824499,1130,110,11.3,Paid,-
+2024-01-20 05:34:07 pm,71292536,43FD6788F,N/A,SHIFAT HOSSEN NEBIR,01714378228,"বনশ্রী রামপুরা ঢাকা 
+c bl এক নম্বর রোড হাউস ১৭",Rampura,Delivered,Delivered,1,Limon( Rampura),01909002239,1660,60,16.6,Paid,-  CBM
+2024-01-20 05:53:08 pm,71295563,43FE24BA2,N/A,SAKIB UL HOQUE,01601555865,"Poran Chandgoanr vetor e syed Nuruzzaman nazir bari 
+ modina tower,chittagong",Chandgaon (CTG),Delivered,Delivered,1,Ariyan,01886996178,1130,110,11.3,Paid,-  CBM
+2024-01-21 05:31:32 pm,71391347,441587372,N/A,RABBI KHAN,01969192407,"Jhalakathi, press club mor.",Jhalokati,Delivered,Delivered,1,Rasel khan.,01955141188,1030,130,10.3,Paid,-
+2024-01-22 05:52:14 pm,71489718,442D8B6C6,N/A,SABBIR RAHMAN,01792179201,Rajshahi Division stadium gate,Rajshahi,Delivered,Delivered,1,Sobuj(Rajshahi),01771010242,1100,130,11,Paid,-
+2024-01-22 06:35:38 pm,71496866,442F4A2BE,N/A,TASHFIQUE ISLAM,01305068739,Greenroad 170/a dhaka,Express Delivery,Delivered,Delivered,1,Imran - Dhanmondi Express,01717308785,1010,70,10.1,Paid,-  CBM
+2024-01-25 06:28:34 pm,71776405,4473895D8,N/A,সাইফুল আমিন,01819834330,"গ্রাম, দক্ষিণ রহমত নগর। পোস্ট অফিস, বারবকুন্ড। থানা, সীতাকুন্ড।",Sitakunda (CTG),Delivered,Delivered,3,Joy ray,01311898117,1400,130,14,Paid,-  CBM
+2024-01-25 06:36:22 pm,71777798,4473E067B,N/A,সাজ্জাদ হোসেন,01718322230,"বিমানবন্দর আবাসিক এলাকা, কাওলা G-15/18 বাসা",Nikunja,Delivered,Delivered,1,Md.Imran (Nikunja),01904512780,2300,90,23,Paid,payment korar somoy jodi complication hoy tahole kindly phone diben -  CBM
+2024-01-25 06:41:25 pm,71778591,447411F7E,N/A,মাহাবুব,01726334309,"থানা কসবা 
+জেলা ব্রাক্ষনবাড়ীয়া",Kasba (B Baria),Delivered,Delivered,1,MD. Al-Mamun...Kasba,01880552249,1480,130,14.8,Paid,-
+2024-01-25 06:44:47 pm,71779061,44742F525,N/A,HR KHAN,01826166324,"বিভাগ: রংপুর
+জেলা: দিনাজপুর সদর
+গ্ৰাম: ৬ নং আউলিয়া পরিষদ, চেরাডাঙ্গী, দক্ষিণ ফরিদপুর",Dinajpur,Delivered,Delivered,1,Sarowar Alam...(Dinajpur),01794749046,130,130,1.3,Paid,-
+2024-01-27 05:32:31 pm,71941114,449BBFA58,N/A,মো: নাঈম ইসলাম,01705750097,"নরসিংদী সদর 
+স্টেশন টিকিট কাউন্টার",Narsingdi,Delivered,Delivered,1,Mehedi Hasan (Narshingdi),01327828520,1130,110,11.3,Paid,-
+2024-01-27 05:41:00 pm,71942212,449C04445,N/A,TANZIM HASAN,01629367349,"Pabna University Of Science And Technology,  Bangabandhu Sheikh Mujibur Rahman Hall, Rajapur, Pabna Sadar",Pabna,Delivered,Delivered,2,Abu Taleb,01307148030,1300,110,13,Paid,-
+2024-01-27 05:51:00 pm,71943784,449C66891,N/A,ARIYAN CHATTERJEE,01784359972,"Barishal notan bazar, Bogura police fari Barishal",Sutrapur,Cancelled,Cancelled,3,Rashedul Barishal,01617994339,1130,110,0,Paid,-
+2024-01-27 05:59:50 pm,71945210,449CBFAE2,N/A,NAZMUL,01878554842,"House : 40, Road 10, Sector 4, Uttara",Uttara,Delivered,Delivered,1,Saifuzzaman(Uttara),01701538006,1300,60,13,Paid,-  CBM
+2024-01-27 06:17:39 pm,71948365,449D84D01,N/A,রবিউল হাসান,01714310384,"মাদারিপুল বাজার
+হাটহাজারী থানা
+চট্টগ্রাম",Hathazari,Delivered,Delivered,1,Ahmed Ali  (Hathazari),01631622281,2480,150,24.8,Paid,-  CBM
+2024-01-28 06:49:52 pm,72052054,44B6D5688,N/A,SAKHAWAT HOSSAIN,01873410751,"Gate No : 02, ACME laboratories ltd, Dhulivita, Dhamrai, Dhaka.",Dhamrai,Delivered,Delivered,1,Maidul(Dhamrai),01613394441,1060,100,10.6,Paid,"Plz make sure to deliver the product within the official time) 
+Thanks -  CBM"
+2024-01-28 06:53:56 pm,72052576,44B6F60EC,N/A,JISHAN,01968210013,"Sainbord,shahebpara bazar,Narayanganj",Kanchpur Hub,Delivered,Delivered,2,Abdul Kadir(Kanchpur Hub),01826330134,1250,110,12.5,Paid,-  CBM z/c....
+2024-01-28 06:57:21 pm,72053037,44B712DE6,N/A,SHEIKH DIP,01601132772,"Rambhadrapur , Bhedarganj , Shariatpur",Bhedarganj (Shariatpur),Delivered,Delivered,1,Md Belal...(Shariatpur),01858411953,1200,110,12,Paid,-
+2024-01-28 07:00:18 pm,72053486,44B72EEBF,N/A,RAJIB,01711155010,"Natore Sodor ,Stason bazer",Natore,Delivered,Delivered,1,Rana (Natore),01750798920,1250,110,12.5,Paid,-
+2024-01-30 05:33:42 pm,72234541,44E362D88,N/A,KAIFO,01798632808,"Chittagong, GEC, mahedibug.shahid mirza lain",Sutrapur,Cancelled,Cancelled,2,Md Ashikur Rahman  (Chawakbazar),01704321860,1550,130,0,Paid,-  CBM
+2024-01-30 05:56:02 pm,72238024,44E43C87F,N/A,JUBAYER AHMED,01611670442,"Savar,, Baipel,,, new EPZ",Ashulia,Delivered,Delivered,2,RL Rasel (Ashulia),01701902602,1250,100,12.5,Paid,-  CBM
+2024-01-30 06:01:41 pm,72239123,44E481347,N/A,ANTOR,01643819063,Somorita hospital Panthapath,Kalabagan,Delivered,Delivered,1,Al-Mamun(Kalabagan),01869858464,1160,60,11.6,Paid,-  CBM
+2024-01-30 06:08:03 pm,72240113,44E4BF143,N/A,JUNE,01891871919,"Thana:-Nilphamari 
+
+Village :- Dream Galaxy water pool, Master para",Nilphamari,Delivered,Delivered,1,Md Mamun Ali...Nilphamari,01317333287,1350,150,13.5,Paid,-
+2024-01-30 06:50:29 pm,72247821,44E6A0D4F,N/A,ASHRAFUL ISLAM SHAKIB,01982696539,"Joysree, Shikarpur, Wazirpur, Barishal",Ujirpur (Barishal),Delivered,Delivered,2,Mamun ( Ujirpur Barishal),01703857147,1130,130,11.3,Paid,-
+2024-01-31 06:08:09 pm,72337601,44FC8C1E1,N/A,নাজমুল আলম মাছুম,01977860424,মরকুন (কোকোলা গেট) । মন্নু নগর। টংগী। গাজীপুর,Tongi Hub,Delivered,Delivered,1,Shimul Mahmud (Tongi),01817622024,1350,100,13.5,Paid,-  CBM
+2024-01-31 06:10:38 pm,72337910,44FC9F671,N/A,রবিউল হাসান,01714310384,"মাদারিপুল বাজার
+হাটহাজারী থানা
+চট্টগ্রাম",Sutrapur,Cancelled,Cancelled,2,Ahmed Ali  (Hathazari),01631622281,130,130,0,Paid,replace hobe -  CBM
+2024-01-31 06:19:13 pm,72339227,44FCF1B9A,N/A,কলিন্স,01616005557,"মাধবকুন্দ ঝরনা
+ থানা:বড়লেখা
+জেলা: মৌলভীবাজার",Barlekha (Moulvibazar),Delivered,Delivered,2,Md.Hasan Mia,01774348081,1030,130,10.3,Paid,-
+2024-01-31 06:24:10 pm,72340117,44FD29560,N/A,NAZMUL HASAN,01608731834,"Shahajalal University of science and technology, sylhet 
+Kumargaon bus stand",Modina Market (Sylhet),Delivered,Delivered,2,Tanvir Ahmed,01321679500,1130,130,11.3,Paid,-  CBM
+2024-02-01 06:09:39 pm,72441577,4515EE9FD,N/A,মোঃতারিক ইসলাম,01780472107,রাজশাহী রেলগেট ইস্টেডিয়াম,Paba (Rajshahi),Delivered,Delivered,2,Saddam Hossen,01945951893,1650,150,16.5,Paid,-
+2024-02-18 05:40:06 pm,74258019,46D166338,N/A,RAJO,01920829021,"Chairman gali,west side off dharma Sagor, jhawtala, sadar,cumilla",Cumilla,Delivered,Delivered,1,Abdullah Al Hasan,01309827137,930,130,9.3,Paid,-
+2024-02-18 05:44:47 pm,74258797,46D196DDA,N/A,জাহিদ,01609763849,"পূর্ব আদালত পাড়া, ফায়ার সার্ভিস রোড, ক্যারিয়ার আইটি,টাঙ্গাইল-১৯০০(পুরাতন বাসস্ট্যান্ড)",Tangail,Delivered,Delivered,1,Gour (Tangail),01321966788,650,130,6.5,Paid,-
+2024-02-19 05:41:49 pm,74367349,46EC17510,N/A,NANDO DULAL,01892438865,"Tharmal power plant, taltoli, barguna.",Taltali Hub (Barguna),Delivered,Delivered,2,Md Mehedi Hasan,01619585121,1430,110,14.3,Paid,-
+2024-02-19 05:43:25 pm,74367589,46EC265F0,N/A,ওমর ফারুক,01890375090,"খিলগাঁও,পূর্ব গোড়ান,বাসা-২০০,রোড-৮,পানির পাম্প এর সাথে",Khilgaon,Delivered,Delivered,1,Hafuzul Islam(Khilgaon),01703525898,2000,90,20,Paid,-  CBM
+2024-02-20 05:30:34 pm,74470221,470534D22,N/A,MD ASRAFUL ISLAM,01734628765,"Saturiya kalosa majer, মানিকগঞ্জ সাটুরিয়া",Sutrapur,Cancelled,Cancelled,4,Anik Sutradhar,01941606906,1030,130,0,Paid,-  CBM
+2024-02-20 05:31:27 pm,74470391,47053F739,N/A,ABDULLAH AL BOKHARI,01833058175,215/3 purbo rampura Dhaka.,Rampura,Delivered,Delivered,1,Md shimul Raj Rampura,01961657985,1210,70,12.1,Paid,-  CBM
+2024-02-20 05:32:50 pm,74470587,47054BBC6,N/A,ওমর ফারুক,01890375090,"খিলগাঁও,পূর্ব গোড়ান,বাসা-২০০,রোড-৮,পানির পাম্প এর সাথে",Sutrapur,Delivered,Delivered,1,Md.Hafijul islam (khilgaon),01408349733,70,60,0.7,Paid,Exchange hobe -
+2024-02-22 06:18:36 pm,74674138,4736FDAEE,N/A,DELWAR AHAMMED,01813360452,Chittagong Air port Road 14 no,Sutrapur,Cancelled,Cancelled,7,Syedur Rahman(Patenga),01690064842,1030,130,0,Paid,-  ajke delivery deya hobe
+2024-02-24 05:50:07 pm,74865119,47659DF22,N/A,ASHIKUR RAHMAN ASHIK,01568506442,"Sylhetiya Bazer(Modina Masjid), Kamrangir Char, Dhaka 1211",Kamrangirchar,Delivered,Delivered,2,Alamin Delivry (k.Char),01934592228,1260,60,12.6,Paid,-  CBM
+2024-02-24 05:51:20 pm,74865302,4765A964D,N/A,SADIA,01794119515,"Purana Paltan lane,Bijay Nagar 
+House : 78/E (4th Floor)",Motijheel,Delivered,Delivered,1,Rayhan Kobir(Motijheel),01614091245,1000,60,10,Paid,-  CBM
+2024-02-25 06:02:27 pm,74976354,4780C62B6,N/A,"রিয়াজ,",01758681193,"থানা,,ফুলপুর 
+জেলা,,ময়মনসিংহ 
+গ্রাম,,সঞ্চুর,,",Sutrapur,Cancelled,Cancelled,7,Rabbi Hasan,01884581488,1300,110,0,Paid,-27th feb sokal er moddhe delivery kora lagbe
+2024-02-28 05:39:30 pm,75271157,47C8BF5E1,N/A,ROMAN SHAIKH,01521436803,"5  Banani, BTCL Colony. Dhaka 1213",Gulshan,Delivered,Delivered,1,Md sajib (gulshan),01733438493,1260,60,12.6,Paid,-  CBM
+2024-02-28 05:46:47 pm,75272350,47C909E37,N/A,পার্থ,01712078552,"254,east kazipara (biyam ghor road),kafrul,dhaka",Mirpur,Delivered,Delivered,1,Babu Van (Mirpur,01777321490,1260,70,12.6,Paid,-  CBM
+2024-02-28 06:11:54 pm,75276754,47CA1D270,N/A,QAZI ASIF,01711817447,"H#52/A.            
+                                                 R#11/A.                                                              Apt# 5/A.                                              Dhanmondi .                                                Dhaka",Dhanmondi,Delivered,Delivered,1,Shipon (Dhanmondi),01881160344,810,70,8.1,Paid,-  CBM
+2024-02-28 06:18:32 pm,75277925,47CA665B4,N/A,FAISHAL KHAN BADAL,01728380628,Masdair gorosthan gabtolir mor fatulla narayangonj,Fatulla (Narayanganj),Delivered,Delivered,1,Din Islam (Fatullah),01918316488,1680,100,16.8,Paid,-  CBM
+2024-02-28 06:25:27 pm,75279013,47CAAA5EB,N/A,ARIFUL ISLAM,01619847921,"Naraygonj
+modonpur, baraka hospital",Bandar (Narayanganj),Delivered,Delivered,1,Hasan ( Bandar),01638740193,1200,80,12,Paid,-  CBM
+2024-03-02 06:15:24 pm,75574350,4812C4E79,N/A,BURHAN RAHMAN,01897723731,Cox’s Bazar sadar,Cox's Bazar,Delivered,Delivered,2,Suaib,01601776838,1330,130,13.3,Paid,-
+2024-03-02 06:18:20 pm,75574966,4812EB630,N/A,JONI SAHA,01704140675,"Habiganj agro ltd.
+Oilpur, shahajibaze, shestaganj,",Shayestaganj (Habiganj),Delivered,Delivered,3,Apon Mohanta,01736717997,1330,130,13.3,Paid,-
+2024-03-02 06:28:57 pm,75576881,48136319E,N/A,SHAFIUL,01819241521,"Address- house 31
+House name - jest jananee  (3rd floor ) chalabon,Bhai bhai market,dokhin khan,uttara Dhaka",Uttarkhan,Delivered,Delivered,1,Md Foysal Hawlader,01618276711,910,70,9.1,Paid,-  CBM
+2024-03-03 05:37:42 pm,75681498,482CEDA5A,N/A,IMTIAZ AHMED SHIAM,01826688604,"Rangpur,14 no word, Borobare Toslemar mor
+
+Rangpur bus tarminal takha possem a 14 no word toslemar mor ,rangpur",Rangpur,Delivered,Delivered,2,Md. Shapon Mia (rangpur),01940431069,1300,110,13,Paid,5 tarik bikal er moddhe delivery kora lagbe ta nahole cancel hoye jabe -
+2024-03-03 06:30:55 pm,75690968,482F3D813,N/A,IMRAN,01774642945,House 15 road 15 dhanmondi priyo prangan flat# 208,Dhanmondi,Delivered,Delivered,2,Hridoy (Dhanmondi),01797823228,2400,90,24,Paid,-  CBM
+2024-03-03 07:07:27 pm,75698207,483101FA4,N/A,SHAFIUL,01819241521,"Address- house 31
+
+House name - jest jananee  (3rd floor ) chalabon,Bhai bhai market,dokhin khan,uttara Dhaka",Uttarkhan,Delivered,Delivered,1,Md Foysal Hawlader,01618276711,910,60,9.1,Paid,-  CBM
+2024-03-04 06:09:16 pm,75799974,4849DA67F,N/A,MD.SUMON,01768563962,"Crp road Dogormora, Savar",Sutrapur,Cancelled,Cancelled,4,Md Arifuzzaman-2 (Savar),01315297893,1080,120,0,Paid,size check kore 1ta nibe r 1ta return hobe -  CBM
+2024-03-05 06:05:32 pm,75911948,486530CA4,N/A,আবির হোসেন,01404566177,"কাজিপারা মানিকতলা মসজিদ,যশোর",Sutrapur,Partially Delivered,Partially Delivered,2,Milon Paul(Jashore),01903767206,130,110,1.3,Paid,-
+2024-03-11 06:13:32 pm,76589226,490A8AA7A,N/A,RASHADUL ALAM,01630668804,"Sector 5,panir pump, uttora",Sutrapur,Cancelled,Cancelled,3,Faruk hossain (uttata),01993587398,1260,60,0,Paid,-  CBM
+2024-03-14 05:25:17 pm,76965869,49667ED4E,N/A,SNK TAMZID,01976992423,"Tejgaw, jahangir gate, army aviation group",Sutrapur,Partially Delivered,Partially Delivered,1,Shimul 2(tejgaon),01331938062,1160,100,11.6,Paid,-  CBM
+2024-03-16 03:08:51 pm,77195233,499E7E14B,N/A,MAMUN,01601249600,"Bisho colony, jashim market see world road, chittagong",City Gate (CTG),Delivered,Delivered,1,Adnan Mahmud(City Gate),01880927734,1330,120,13.3,Paid,-  CBM
+2024-03-16 03:40:12 pm,77201939,49A02133F,N/A,MD MOFAZZAL,01759328720,"House-22, road-2, section-12 pollobi Dhaka",Pallabi,Delivered,Delivered,1,Md Rabbi (Pallabi),01956797414,1120,70,11.2,Paid,-  CBM
+2024-03-23 06:50:24 pm,78236826,4A9CC9A28,N/A,SONJOY DAS,01718793895,ঢাকা ইস্কাটন দিলু রোড প্রিয়াঙ্কা সুটিং,Mogbazar,Delivered,Delivered,2,Shakil Express(Pickup Mogbazar),01861412164,1060,70,10.6,Paid,-  CBM
+2024-03-23 06:57:52 pm,78238280,4A9D2482F,N/A,TIPU,01886383632,"Sutrapur,Bogura sadar,Bogura",Bogura,Delivered,Delivered,2,Towfik,01330287510,1130,120,11.3,Paid,-
+2024-03-27 06:48:57 pm,78877127,4B391C70E,N/A,RAFIQUL RIGAN,01680336223,Bti premier shopping mall north Badda Dhaka level 1 Shop No 6-B,Sutrapur,Pending,Cancelled,,Shahed Hossain(Badda),01834690368,4100,140,0,Paid,-
+2024-03-29 05:49:43 pm,79201183,4B8839FE8,N/A,FARHAN,01301521411,"Moulovibazar, sherpur bus stand",Sherpur Moulvibazar,Delivered,Delivered,1,Aynal Haque,01732853197,2900,160,29,Paid,-
+2024-03-29 07:04:01 pm,79210470,4B8A7E655,N/A,MOHAMMAD NOMAN SHEIKH,01752114054,"Madrasamor, Natore",Natore,Delivered,Delivered,1,MD Khokon Khan,01781619241,1450,140,14.5,Paid,-
+2024-03-29 07:05:28 pm,79210758,4B8A906AF,N/A,TAIMUN,01755842726,Noakhali \sanbag bazar,Senbag (Noakhali),Delivered,Delivered,2,Jobayer Ahamed,01882142405,1400,140,14,Paid,-
+2024-04-01 06:04:46 pm,79749218,4C0E06232,N/A,MD.ABDULLAH AL AHAD,01714615419,"Gendaria,Rajani Choudhury Road,Monija Rahman Girls school, Dhaka",Sutrapur,Delivered,Delivered,1,Simiyon(Sutrapur),01740228599,1500,80,15,Paid,-  CBM
+2024-04-01 07:06:39 pm,79757316,4C1000421,N/A,IMRUL KAYES,01818822735,"House/Flat: 278/C, Plot: 278/C block, Manikdi Namapara, Dhaka Cantonment.",Kafrul,Delivered,Delivered,2,Md Baitul Islam(Kafrul),01942399124,1510,80,15.1,Paid,-  CBM
+2024-04-01 07:10:11 pm,79758085,4C10305D5,N/A,MASHFIQUE,01986689540,"Agargaon taltola, Officers colony, B-21,f/d,Ground floor rigt hand home",Agargaon,Delivered,Delivered,1,Md Josim Uddin(Agargaon),01870500823,1560,80,15.6,Paid,-  CBM
+2024-04-01 07:11:51 pm,79758523,4C104BBA9,N/A,SOHEL RANA,01723502862,Rangpur 7matha,Rangpur,Delivered,Delivered,2,Md.Khabir (Rangpur),01329235081,1550,140,15.5,Paid,-
+2024-04-01 07:14:19 pm,79759123,4C1071395,N/A,তপু,01785682022,জেলা সিলেট.  বাড়িঃ বিয়ানীবাজার কলেজ ও পাসে,Beanibazar(Sylhet),Delivered,Delivered,2,Younus...(Barlekha ),01707323665,1650,140,16.5,Paid,-  CBM
+2024-04-01 07:20:19 pm,79760861,4C10DDDF4,N/A,SYED ISHAAT AHAMED,01797962026,Munsipara sadar dinajpur,Dinajpur,Delivered,Delivered,2,Md Robi (Dinajpur),01892503050,1730,140,17.3,Paid,-
+2024-04-02 06:54:29 pm,79946017,4C3E121FD,N/A,শিশির,01946494246,"বাগআঁচড়া, সাতমাইল, শার্শা, যশোর
+
+গ্রাম:বাগআঁচড়া,
+সাতমাইল
+থানা: শার্শা
+জেলা: যশোর
+বিভাগ: খুলনা",Benapole (Jashore),Delivered,Delivered,2,Omor Faruq Benapole,01764530501,1530,140,15.3,Paid,-
+2024-04-02 07:02:31 pm,79948219,4C3E9BBAE,N/A,মেহেদী হাসান অন্তর,01327917301,"জেলা পাবনা‌‌ থানা সাথিয়া গ্রাম সোনাতলা পশ্চিমপাড়া দিতে হ
+বে ফকিরপাড়া জামে মসজিদের সামনে",Santhia (Pabna),Delivered,Delivered,2,Shamim (Pabna),01405152320,1550,140,15.5,Paid,-
+2024-04-02 07:07:33 pm,79949507,4C3EEC379,N/A,MD SOAIEB,01766768504,"ভালশুন, কাহালু, বগুড়া,",Bogura,Delivered,Delivered,3,Md Soron Mondol..(Bogura),01323240449,1550,140,15.5,Paid,-
+2024-04-02 07:18:53 pm,79951396,4C3F624A0,N/A,MEHEDI HASAN,01313598045,"Chittagong,
+Ak khan,ispahni,
+
+Azom Nagar",City Gate (CTG),Delivered,Delivered,2,Shajib Islam  (City gate),01892947584,1730,140,17.3,Paid,-
+2024-04-02 07:31:05 pm,79953220,4C3FD4489,N/A,SAYEMUN  AL TOHA,01763269847,"Golapbag house 96/0 ,sadar,Dinajpur",Dinajpur,Delivered,Delivered,2,Md: Md Mokarrom Hossain,01751226639,1730,140,17.3,Paid,-
+2024-04-02 07:35:24 pm,79954324,4C40194A0,N/A,KHAN BITTO,01955255816,"Jatrabari, Rayerbhag, Khanka sharif er opposite building",Sutrapur,Partially Delivered,Partially Delivered,1,Al Sadik Khan(kadamtoli),01751008116,80,80,0.8,Paid,-  CBM
+2024-04-04 06:52:58 pm,80331347,4C9C2538F,N/A,DURJOY,01787560872,"Natun Bazar,  Mathuranath public school ar samne,Barisal",Barishal,Delivered,Delivered,1,Rashedul Barishal,01617994339,1730,140,17.3,Paid,-
+2024-04-04 06:54:36 pm,80331696,4C9C3B078,N/A,ইমন শাহ,01632830822,"মুক্তাগাছা, ময়মনসিংহ",Muktagacha (Mymensingh),Delivered,Delivered,4,MD Julhas Uddin,01627361832,1550,140,15.5,Paid,-
+2024-04-04 06:56:35 pm,80332061,4C9C51D5B,N/A,সাজ্জাদ হোসেন,01571458908,"জেলা : কুমিল্লা 
+থানা: বরুড়া 
+পোস্ট :রামমোহন বাজার",Sutrapur,Cancelled,Cancelled,1,Md Ikramul Huque,01887525166,1730,140,0,Paid,-
+2024-04-05 06:50:09 pm,80517327,4CC98CF04,N/A,MD SURAJ,01713462085,"Dinajpur sada, matasagor",Dinajpur,Delivered,Delivered,2,Asaduzzaman...(Dinajpur),01710407480,1680,140,16.8,Paid,-
+2024-04-06 07:12:48 pm,80683453,4CF21BD12,N/A,SADDAM HUSSEIN,01738619551,"Pabna, bera,cakla,panchurya madrasa bazar",Bera (Pabna),Delivered,Delivered,13,Md.Refaz Ali,01775724797,1700,140,17,Paid,-COD change to 1600 from 1700
+2024-04-06 07:15:44 pm,80684220,4CF24BCEC,N/A,আল মামুন,01878671240,ময়মনসিংহ আলিয়া মাদ্রাসা মোড়,Mymensingh,Delivered,Delivered,2,Sabbir (Mymensingh),01643322268,2150,160,21.5,Paid,-
+2024-04-06 07:19:34 pm,80685400,4CF295887,N/A,MINAR,01956759092,"Narangonj,rupgonj,borpa, keramboord mor",Rupganj,Delivered,Delivered,2,MD Sojib (Rupganj),01568415187,1100,110,11,Paid,-  CBM
+2024-04-06 07:21:04 pm,80685635,4CF2A4329,N/A,MD. AZAD,01813012250,"কুয়াইশ কলেজ, হাটহাজারী, চট্টগ্রাম",Sutrapur,Cancelled,Cancelled,2,Minhaj Chowdury,01829993479,800,120,0,Paid,-  CBM
+2024-04-06 07:24:15 pm,80686688,4CF2E606E,N/A,TAJKIYA,01783150635,"Mohammadia Housing Limited, Dhaka",Mohammadpur,Delivered,Delivered,2,Sayem Islam,01868737269,0,80,0,Paid,-  CBM
+2024-04-07 07:08:55 pm,80776416,4D08CE040,N/A,MUGDHO,01886501699,"House #6, Road #3, F block, Mirpur 1",Sutrapur,Partially Delivered,Partially Delivered,1,Najmul Haque(Kollayanpur),01722877883,50,80,0.5,Paid,-  CBM
+2024-04-17 05:04:13 pm,81054089,4D4C989A1,N/A,FARHAN,01301521411,"Moulovibazar, sherpur bus stand",Sherpur Moulvibazar,Delivered,Delivered,3,Shahab Uddin,01960807787,1530,130,15.3,Paid,-
+2024-04-17 06:43:37 pm,81068253,4D500DD30,N/A,MAHI,01970626914,"Mymensingh, 23/k Kanchijhuli golapjan Road",Mymensingh,Delivered,Delivered,2,Humayen Forid,01990731036,1630,130,16.3,Paid,-
+2024-04-17 06:49:59 pm,81069186,4D50482E0,N/A,TAOSIF,01716067337,"Rayer bazar sikder organic market(opposite sikder medical),tali office road,house 309 hns villa#3",Dhanmondi,Delivered,Delivered,2,Rafikul Islam (Dhanmondi),01616727861,1600,70,16,Paid,-  CBM
+2024-04-19 05:11:58 pm,81243244,4D7AC6C23,N/A,আল আমিন তূর্য,01604763482,"৯ পরিবাগ, শাহবাগ, ঢাকা-১০০০ (গ্লোব নিবাস)",Sutrapur,Partially Delivered,Partially Delivered,1,Shariful Islam (Kalabagan),01568393460,60,70,0.6,Paid,-  CBM
+2024-04-19 05:58:29 pm,81248494,4D7C0EE16,N/A,NOKIB,01828493932,Bhabanipur,Mawna (Gazipur),Cancelled,Pending,2,Shahin Islam,01832448357,1650,100,0,Unpaid,-  CBM
+2024-04-19 06:45:30 pm,81254341,4D7D7C58C,N/A,SOJIB HASAN,01735047108,Shadhinota saroni Hossain market uttor badda Dhaka,Badda,Pending,Pending,,Hazroat ali (badda),01871839010,1500,70,0,Unpaid,-  CBM
+2024-04-21 05:45:10 pm,81446541,4DAC68D13,N/A,FARHAN,01301521411,"Moulovibazar, sherpur bus stand",Sherpur Moulvibazar,Delivered,Pending,1,Noyon,01640825375,1530,130,0,Unpaid,-
+2024-04-21 06:08:01 pm,81450313,4DAD549D0,N/A,NUMAN HELALY,01619128474,"Nikunjo 2,road-14,house-17,6th floor,dhaka",Nikunja,Delivered,Pending,1,Shakil (Nikunja),01629440031,1360,70,0,Unpaid,-
+2024-04-21 06:10:53 pm,81450870,4DAD77652,N/A,সৌরভ,01779505738,"জেলা:নর্সিংদী 
+থানা:মনোহরদী
+গ্রাম: চুলা
+পোস্ট অফিস: চুলা বাজার",Monohardi (Narsingdi),Pending,Pending,,Unassigned,0,1700,130,0,Unpaid,Bikal or sondhay delivery hobe -
+2024-04-21 06:13:24 pm,81451399,4DAD9871E,N/A,SOUROV HASAN AHIR,01737229255,"12no,Bagmara main road, khulna.
+
+Zilla: khulna 
+
+Thana : khulna",Moylapota (Khulna),Delivered,Pending,1,MD. Omar Talukder,01912805927,1650,130,0,Unpaid,-  CBM
+2024-04-21 06:15:42 pm,81451793,4DADB11A1,N/A,TAOSIF,01716067337,"Rayer bazar sikder organic market(opposite sikder medical),tali office road,house 309 hns villa#3",Dhanmondi,Partially Delivered,Pending,1,Rafikul Islam (Dhanmondi),01616727861,60,70,0,Unpaid,-  CBM
