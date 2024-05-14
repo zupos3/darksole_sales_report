@@ -1,2 +1,3 @@
 The dataset of the consignments that were done by Steadfast courier service has been given.
-The dashboard of the dataset is given in pdf format.
+The dataset has been kept in csv format.
+The dashboard has been created by Google data studio.
